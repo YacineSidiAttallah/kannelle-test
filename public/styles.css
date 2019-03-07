@@ -1,0 +1,23 @@
+#navbar {
+  background-color: #2EED99 !important;
+}
+
+.navbar-text{
+  color: white !important;
+}
+
+h3{
+  margin: 15px 0px;
+  text-decoration: underline;
+  color: #999999;
+}
+
+h4{
+  background-color: #2EED99;
+  color: white;
+}
+
+#button{
+  background-color: #2EED99;
+  border:none;
+}
